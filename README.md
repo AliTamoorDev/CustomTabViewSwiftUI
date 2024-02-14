@@ -1,0 +1,1 @@
+SwiftUI standard TabView component is not so flexible and to customize it you have to modify appearance proxy of UITabBar or implement your own one from scratch. The goal of this library is to solve this problem.
