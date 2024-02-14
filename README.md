@@ -1,3 +1,9 @@
+![Static Badge](https://img.shields.io/badge/Plateform-iOS-green)
+ ![Static Badge](https://img.shields.io/badge/iOS-13%2B-blue) ![Static Badge](https://img.shields.io/badge/Swift-5-orange?logo=swift&logoColor=white)
+
+
+
+
 # Custom TabView
 
  The goal of this library is to provide a **`TabView`** in iOS using `SwiftUI` similar to `tvOS` which looks much better in some UIs.
