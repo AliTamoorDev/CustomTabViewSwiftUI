@@ -1,4 +1,4 @@
-# TabView
+# Custom TabView
 
  The goal of this library is to provide a **`TabView`** in iOS using `SwiftUI` similar to `tvOS` which looks much better in some UIs.
 
