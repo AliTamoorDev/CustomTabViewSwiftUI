@@ -2,6 +2,10 @@
 
  The goal of this library is to provide a **`TabView`** in iOS using `SwiftUI` similar to `tvOS` which looks much better in some UIs.
 
+## Results
+![customTabView](https://github.com/AliTamoorDev/CustomTabViewSwiftUI/assets/95581643/a93a811f-f0f2-4fa6-a58a-c158a4d75510)
+
+
 
 ## Requirements
 SwiftUI
@@ -18,8 +22,6 @@ File > Swift Packages > Add Package Dependency...
 Then paste this URL:
 
 https://github.com/onl1ner/TabBar.git
-
-## Results
 
 
 ## Usage
@@ -139,6 +141,7 @@ As you can see that whatever `button` will be pressed the **selectedTab** will b
 ---
 Now your custom tabView Similar to the tvOS TabView is ready:
 
+![Simulator Screenshot - iPad Pro (11-inch) (4th generation) - 2024-02-14 at 16 17 30 (1)](https://github.com/AliTamoorDev/CustomTabViewSwiftUI/assets/95581643/64a4ce29-b851-40af-864b-4f57075fca17)
 
 ***
 > **Note:**
