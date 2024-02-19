@@ -18,18 +18,6 @@ SwiftUI
 iOS 13.0 or above.
 
 
-## Installation
-TabBar is available through Swift Package Manager
-
-Swift Package Manager
-In Xcode select:
-
-File > Swift Packages > Add Package Dependency...
-Then paste this URL:
-
-https://github.com/onl1ner/TabBar.git
-
-
 ## Usage
 
 To start using `TabView` you have to create an enum which will implement `Tabbable` protocol so that custom Image and Title can be provided:
