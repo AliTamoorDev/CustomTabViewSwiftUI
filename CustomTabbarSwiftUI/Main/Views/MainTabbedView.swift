@@ -54,6 +54,12 @@ struct MainTabbedView: View {
     }
 }
 
+#Preview {
+    MainTabbedView(selectedTab: 0)
+}
+
+
+// MARK: - Custom Items
 extension MainTabbedView {
     func CustomTabItem(imageName: String, title: String, isActive: Bool) -> some View{
         HStack(spacing: 10){
